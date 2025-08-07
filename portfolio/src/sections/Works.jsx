@@ -123,9 +123,11 @@ const Works = () => {
 
             {/* Title */}
             <div className="flex justify-between px-10 text-black transition-all duration-500 md:group-hover:px-12 md:group-hover:text-white">
-              <h2 className="lg:text-[32px] text-[26px] leading-none">
-                {project.name}
-              </h2>
+              <a href={project.href} target="_blank" rel="noopener noreferrer">
+                <h2 className="lg:text-[32px] text-[26px] leading-none">
+                  {project.name}
+                </h2>
+              </a>
               <Icon
                 icon="lucide:arrow-up-right"
                 width="24"

@@ -38,7 +38,7 @@ export const projects = [
     name: "Shopping E-commerce Website ",
     description:
       "Discover the perfect fit for every wardrobe at our one-stop online fashion store! From playful styles for kids to everyday essentials and trendy picks for men and women – we bring you fashion that fits your lifestyle. Shop the latest in casuals, formals, and comfy wear for the whole family, all in one place",
-    href: "",
+    href: "https://trendora-by-charlie.vercel.app",
     image: "/assets/projects/trendora.png",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
@@ -55,7 +55,7 @@ export const projects = [
     name: "iPhone Website Clone",
     description:
       "A sleek online showcase inspired by the iPhone experience – featuring smooth GSAP animations and a clean, intuitive interface. Explore premium tech vibes with a flawless UI that feels just like scrolling through a high-end Apple site.",
-    href: "",
+    href: "https://charlie-phone-x.vercel.app",
     image: "/assets/projects/iphone.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -69,8 +69,8 @@ export const projects = [
     id: 3,
     name: "Authentication system",
     description:
-      "An e-commerce platform for Apple products and accessories with deals and category filtering.",
-    href: "",
+      "A secure MERN-based authentication platform with JWT login, protected routes, hashed passwords, and a responsive React frontend.",
+    href: "https://web-works-with-charlie-auth.vercel.app",
     image: "/assets/projects/mern.png",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
@@ -80,7 +80,7 @@ export const projects = [
       { id: 4, name: "JWT" },
       { id: 5, name: "Tailwind CSS" },
     ],
-  }
+  },
 ];
 export const socials = [
   { name: "Instagram", href: "https://www.instagram.com/ayush_h4x" },
