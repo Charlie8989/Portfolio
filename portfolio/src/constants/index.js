@@ -43,7 +43,6 @@ export const projects = [
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
       { id: 1, name: "React" },
-      { id: 2, name: "Express" },
       { id: 2, name: "Stripe API" },
       { id: 2, name: "Razorpay API" },
       { id: 4, name: "MongoDB" },
