@@ -22,12 +22,19 @@ export const servicesData = [
       "A clunky interface can sink even the best ideas. I craft responsive, pixel perfect web  apps (React Native) that users love—bridging design and functionality seamlessly.",
     items: [
       {
-        title: "E-Commerce",
-        description: "(Checkout flows, Payment Gateways, Inventory APIs)",
+        title: "BoloBoss – AI Interviewer",
+        description:
+          "SaaS-based mock AI interviewer app with real-time voice interaction, AI feedback, and payment integration.",
+      },
+      {
+        title: "Trendora – E-Commerce Website",
+        description:
+          "Vintage-themed e-commerce site with admin panel, product management, and Stripe/Razorpay payments.",
       },
       {
         title: "MERN Authentication",
-        description: "(Checkout flows, Payment Gateways, Inventory APIs)",
+        description:
+          "Full-stack authentication system with JWT, bcrypt security, and protected routes for user access control.",
       },
     ],
   },
@@ -78,6 +85,23 @@ export const projects = [
       { id: 3, name: "React" },
       { id: 4, name: "JWT" },
       { id: 5, name: "Tailwind CSS" },
+    ],
+  },
+  {
+    id: 4,
+    name: "BOLOBOSS-An AI Recruiter",
+    description:
+      "A SaaS-based AI interviewer platform that conducts real-time mock interviews using voice and AI. Built with Next.js, Tailwind CSS, and integrated VAPI AI for feedback and analysis.",
+    href: "https://boloboss-by-charlie.vercel.app",
+    image: "/assets/projects/boloboss.png",
+    bgImage: "/assets/backgrounds/map.jpg",
+    frameworks: [
+      { id: 1, name: "Supabase" },
+      { id: 2, name: "NextJS" },
+      { id: 3, name: "Google Auth" },
+      { id: 4, name: "Razorpay" },
+      { id: 5, name: "Vapi AI" },
+      { id: 6, name: "OpenRouter" },
     ],
   },
 ];
