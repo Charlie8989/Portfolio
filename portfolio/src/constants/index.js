@@ -53,11 +53,6 @@ export const servicesData = [
         description:
           "Designed and developed a modern, responsive UI for the college website redesign project, focusing on improved usability and visual consistency.",
       },
-      {
-        title: "Souvenir",
-        description:
-          "Designed a custom souvenir for a freelance project, blending creative visuals with personalized branding to deliver a memorable keepsake.",
-      },
     ],
   },
   {
@@ -171,16 +166,8 @@ export const projects = [
     image: "/assets/projects/souvenir.png",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [{ id: 1, name: "Canva" }],
-  },      
-  {
-    id: 4,
-    name: "Posters",
-    description: "Checkout the posters by clicking it !!",
-    href: "https://trendora-by-charlie.vercel.app",
-    image: "/assets/projects/trendora.png",
-    bgImage: "/assets/backgrounds/blanket.jpg",
-    frameworks: [{ id: 1, name: "Canva" }],
   },
+  
 ];
 export const socials = [
   { name: "Instagram", href: "https://www.instagram.com/ayush_h4x" },
