@@ -32,9 +32,9 @@ export const servicesData = [
           "Vintage-themed e-commerce site with admin panel, product management, and Stripe/Razorpay payments.",
       },
       {
-        title: "MERN Authentication",
+        title: "TypeWithAakash - Typing Practice Web App",
         description:
-          "Full-stack authentication system with JWT, bcrypt security, and protected routes for user access control.",
+          "Typing practice web app with real-time WPM, accuracy tracking, and responsive UI.",
       },
     ],
   },
@@ -106,18 +106,16 @@ export const projects = [
   },
   {
     id: 3,
-    name: "Authentication system",
+    name: "TypeWithAakash",
     description:
-      "A secure MERN-based authentication platform with JWT login, protected routes, hashed passwords, and a responsive React frontend.",
-    href: "https://web-works-with-charlie-auth.vercel.app",
-    image: "/assets/projects/mern.png",
+      "Typing practice web app with real-time WPM, accuracy tracking, and responsive UI.",
+    href: "https://typewithaakash.vercel.app/",
+    image: "/assets/projects/typewithaakash.png",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
-      { id: 1, name: "MongoDB" },
-      { id: 2, name: "Express" },
-      { id: 3, name: "React" },
-      { id: 4, name: "JWT" },
-      { id: 5, name: "Tailwind CSS" },
+      { id: 1, name: "NextJs" },
+      { id: 2, name: "Clerk Integrated" },
+      { id: 3, name: "Tailwind CSS" },
     ],
   },
   {
