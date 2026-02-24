@@ -78,7 +78,7 @@ export const projects = [
     name: "Shopping E-commerce Website ",
     description:
       "Discover the perfect fit for every wardrobe at our one-stop online fashion store! From playful styles for kids to everyday essentials and trendy picks for men and women – we bring you fashion that fits your lifestyle. Shop the latest in casuals, formals, and comfy wear for the whole family, all in one place",
-    href: "https://trendora-by-charlie.vercel.app",
+    href: "https://trendora.ayush-codes.tech",
     image: "/assets/projects/trendora.png",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
@@ -94,7 +94,7 @@ export const projects = [
     name: "iPhone Website Clone",
     description:
       "A sleek online showcase inspired by the iPhone experience – featuring smooth GSAP animations and a clean, intuitive interface. Explore premium tech vibes with a flawless UI that feels just like scrolling through a high-end Apple site.",
-    href: "https://charlie-phone-x.vercel.app",
+    href: "https://iPhone.ayush-codes.tech",
     image: "/assets/projects/iphone.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -109,7 +109,7 @@ export const projects = [
     name: "TypeWithAakash",
     description:
       "Typing practice web app with real-time WPM, accuracy tracking, and responsive UI.",
-    href: "https://typewithaakash.vercel.app/",
+    href: "https://typewithaakash.ayush-codes.tech/",
     image: "/assets/projects/typewithaakash.png",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
@@ -123,7 +123,7 @@ export const projects = [
     name: "BOLOBOSS-An AI Recruiter",
     description:
       "A SaaS-based AI interviewer platform that conducts real-time mock interviews using voice and AI. Built with Next.js, Tailwind CSS, and integrated VAPI AI for feedback and analysis.",
-    href: "https://boloboss-by-charlie.vercel.app",
+    href: "https://boloboss.ayush-codes.tech",
     image: "/assets/projects/boloboss.png",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
